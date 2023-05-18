@@ -9,3 +9,6 @@ I'm working on the client...
 ### Added Builder base Archer Quen (Upgrade to increases by 5 levels).
 ### All pets are now level 20 (special abilities may not be full yet).
 ### All walls can be upgraded to the maximum level.
+### All super troops: cooldown removed, rental duration changed to 24 hours, and rental cost changed to 2500 black elixir.
+### All hero costumes can be purchased with Diamonds.
+### All village landscape backgrounds unlocked.
