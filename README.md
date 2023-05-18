@@ -3,9 +3,9 @@ A great coc mod candidate for 15.292.8. Applicable for personal or pvp servers. 
 _I'm working on the client_...
 # MOD INFO:
 ## Added
-- 4. level Scattershot (snek peak).
-- 6. level Eagle Artillery (snek peak).
-- 14. level hidden tesla (snek peak).
+- 4 level Scattershot (snek peak).
+- 6 level Eagle Artillery (snek peak).
+- 14 level hidden tesla (snek peak).
 - Builder base Barbarian King (Upgrade to increases by 5 levels).
 - Builder base Archer Quen (Upgrade to increases by 5 levels).
 - (+10) levels to all pets (special abilities may not be full yet).
